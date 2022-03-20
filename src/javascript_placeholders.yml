@@ -1,4 +1,0 @@
-example:
-  script: '%server_ram_free% < 100'
-  true-result: '&cLow RAM!'
-  false-result: '&aRAM okay'
