@@ -1,0 +1,4 @@
+AnimationLib=1.6.9
+AnimatedMenu=3.2.6
+AnimatedMenu Plus=3.2.6
+UltimateBossBar=1.5.2
